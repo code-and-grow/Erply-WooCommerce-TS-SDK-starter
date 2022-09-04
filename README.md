@@ -4,7 +4,7 @@ Typescript SDK starter-kit for connecting Woocommerce shop with Erply API.
 This is just a basic starter kit that connects to Erply and WooCommerce API's.
 
 ## How to install
-Use your either yarn or npm first install commands to install the project dependecies.
+Use your preferred package manager first install commands to install the project dependecies.
 
 ## Required environment variables
 
